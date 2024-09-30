@@ -40,6 +40,7 @@ const weatherForecasts = [
 ];
 
 const App = () => {
+
   return (
     <>
       <h1>Local Weather</h1>
@@ -57,6 +58,7 @@ const App = () => {
       </section>
     </>
   );
+  
 };
 
 export default App;
